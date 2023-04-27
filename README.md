@@ -1,4 +1,4 @@
-# CS 425 MP4
+# CS 425 Distributed Machine Learning Cluster(Best Rust MP All 4 Times)
 ## Getting started
 We are (proudly) using Rust! You can use [rustup](https://rustup.rs/) to setup your Rust environment easily.
 
