@@ -21,6 +21,7 @@ Available CLI commands:
 - `t[rain]`: train the machine learning models, in this case is loading the pretrained models 
 - `predict`: perform distributed inference on imagenet_1k
 - `jobs`: See the current status of the prediction jobs, including percentiles
+
 The program logs to `HOSTNAME.log`.
 
 ### Report
