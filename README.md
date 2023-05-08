@@ -31,3 +31,4 @@ The data screenshots are located [here](data/patterns).
 
 
 ![13411683557337_ pic](https://user-images.githubusercontent.com/26497075/236856549-e13b036a-cfaf-462a-afcc-e14048485425.jpg)
+![13421683557496_ pic](https://user-images.githubusercontent.com/26497075/236856788-ab7fb1ff-050f-4b79-bbfc-2ccb2cb30ed5.jpg)
