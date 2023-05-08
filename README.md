@@ -28,3 +28,6 @@ The program logs to `HOSTNAME.log`.
 Report is located [here](CS425MP4Report.pdf).
 
 The data screenshots are located [here](data/patterns).
+
+
+![13411683557337_ pic](https://user-images.githubusercontent.com/26497075/236856549-e13b036a-cfaf-462a-afcc-e14048485425.jpg)
